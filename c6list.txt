@@ -1,0 +1,5 @@
+/Volumes/GoogleDrive/My Drive/long_cad_cam6/k2sc_detrended_longcad_cam6/EPIC_212287292_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam6/k2sc_detrended_longcad_cam6/EPIC_212402103_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam6/k2sc_detrended_longcad_cam6/EPIC_212411722_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam6/k2sc_detrended_longcad_cam6/EPIC_212820594_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam6/k2sc_detrended_longcad_cam6/EPIC_229227169_amc.fits
