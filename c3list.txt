@@ -16,4 +16,3 @@
 /Volumes/GoogleDrive/My Drive/long_cad_cam3/k2sc_detrended_longcad_cam3/EPIC_206284791_amc.fits
 /Volumes/GoogleDrive/My Drive/long_cad_cam3/k2sc_detrended_longcad_cam3/EPIC_206296292_amc.fits
 /Volumes/GoogleDrive/My Drive/long_cad_cam3/k2sc_detrended_longcad_cam3/EPIC_206346508_amc.fits
-/Volumes/GoogleDrive/My Drive/long_cad_cam3/k2sc_detrended_longcad_cam3/EPIC_206494490_amc.fits

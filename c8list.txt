@@ -1,0 +1,8 @@
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220170497_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220181289_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220186653_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220195098_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220195996_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220197688_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220203045_amc.fits
+/Volumes/GoogleDrive/My Drive/long_cad_cam8/k2sc_detrended_longcad_cam8/EPIC_220220365_amc.fits
